@@ -1,3 +1,22 @@
+#TIC TAC TOE Exercise
+
+## Description:
+
+I followed a Tic Tac Toe Game tutorial Exercise to build this repository.
+
+## Roadmap to improvements:
+
+-will add CSS stylesheets code:
+  1. To style board.
+  2. To style squares
+  3. To Add colors to board and squares
+  4. Will add a status bar
+  5. will color code the playes and pay turn (X and O)
+
+-Will add HTML file code.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
